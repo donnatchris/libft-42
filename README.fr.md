@@ -29,7 +29,7 @@ supprimer tous les fichiers .o et les fichiers exécutables générés par la co
 
 supprimer tous les fichiers .o et les fichiers exécutables générés par la commande make, et recompiler la librairie :
 
-	re
+	make re
 
 # LA LIBRAIRIE
 
